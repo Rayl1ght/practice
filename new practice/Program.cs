@@ -70,6 +70,17 @@ namespace Misha1
                 }
 
             }
+
+            using (ApplicationContext db = new ApplicationContext())
+            {
+                var klients = db.Klient.ToArray();
+                Console.WriteLine("Список объектов");
+                foreach (Klient u in klients)
+                {
+                    Console.WriteLine(u.Client_ID + " - " + u.FIO_clienta + " - " + u.Telefon_clienta + " - " + u.ZakazID);
+                }
+            }
+
             using (ApplicationContext db = new ApplicationContext())
             {
                 var klients = db.Klient.ToArray();
@@ -81,6 +92,7 @@ namespace Misha1
 
                 db.SaveChanges();
                 var Klients = db.Klient.ToArray();
+                Console.WriteLine("Список объектов");
                 foreach (Klient u in Klients)
                 {
                     Console.WriteLine(u.Client_ID + " - " + u.FIO_clienta + " - " + u.Telefon_clienta + " - " + u.ZakazID);

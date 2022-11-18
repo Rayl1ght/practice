@@ -2284,11 +2284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User54\\source\\repos\\new practice\\new practice\\new practice.csproj",
+      "projectUniqueName": "D:\\repk\\new practice\\new practice.csproj",
       "projectName": "new practice",
-      "projectPath": "C:\\Users\\User54\\source\\repos\\new practice\\new practice\\new practice.csproj",
+      "projectPath": "D:\\repk\\new practice\\new practice.csproj",
       "packagesPath": "C:\\Users\\User54\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User54\\source\\repos\\new practice\\new practice\\obj\\",
+      "outputPath": "D:\\repk\\new practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\visual studio 2\\NuGetPackages"
