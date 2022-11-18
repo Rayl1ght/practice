@@ -1,0 +1,63 @@
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\new practice.exe
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\appconfig.json
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\new practice.deps.json
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\new practice.runtimeconfig.json
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\new practice.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\new practice.pdb
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User54\source\repos\new practice\new practice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.csproj.AssemblyReference.cache
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.AssemblyInfoInputs.cache
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.AssemblyInfo.cs
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.csproj.CoreCompileInputs.cache
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.csproj.CopyComplete
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.dll
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\refint\new practice.dll
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.pdb
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\new practice.genruntimeconfig.cache
+C:\Users\User54\source\repos\new practice\new practice\obj\Debug\net6.0\ref\new practice.dll
